@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/5/16 14:44:56。
+     1>项目“E:\vs2013\作业练习\动态规划\动态规划\动态规划.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "背包问题.c"
+         背包问题.c
+     1>e:\vs2013\作业练习\动态规划\动态规划\背包问题.c(27): warning C4013: “system”未定义；假设外部返回 int
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs2013\作业练习\动态规划\Debug\动态规划.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs2013\作业练习\动态规划\Debug\动态规划.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs2013\作业练习\动态规划\Debug\动态规划.lib" /MACHINE:X86 "Debug\列竖式.obj"
+         "Debug\棋盘格.obj"
+         "Debug\背包问题.obj"
+         动态规划.vcxproj -> E:\vs2013\作业练习\动态规划\Debug\动态规划.exe
+     1>已完成生成项目“E:\vs2013\作业练习\动态规划\动态规划\动态规划.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.49
